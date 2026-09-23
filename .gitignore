@@ -1,0 +1,10 @@
+node_modules/
+.next/
+venv/
+__pycache__/
+*.db
+*.sqlite3
+credentials.json
+token.json
+myimpkeys.txt
+.env
